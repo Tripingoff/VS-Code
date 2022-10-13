@@ -1,0 +1,12 @@
+.p
+{
+    font-size: 24px;
+    color: #000;
+}
+p.p
+{
+    background-color: gray;
+    font-size: 24px;
+    color: black;
+    opacity: 65%;
+}
